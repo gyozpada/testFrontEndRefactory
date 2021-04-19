@@ -25,7 +25,7 @@ from this directory
 # 5. Q5
 
     cd Q5
-    cd recruitment-reactjs-test
+    cd recruitment-reactjs-debugging
 
 ganti Your_Github_OauthApp_ClientID dengan Client ID pada setting akun gitHub Oath
 ganti Your_Github_OauthApp_ClientSecret dengan Client Secret pada pada setting akun gitHub Oath
